@@ -9,3 +9,5 @@
     * [三数之和](shuang-zhi-zhen/xiang-xiang-shuang-zhi-zhen/san-shu-zhi-he.md)
     * [四数之和](shuang-zhi-zhen/xiang-xiang-shuang-zhi-zhen/si-shu-zhi-he.md)
 * [哈希表](ha-xi-biao.md)
+* [暴力](bao-li/README.md)
+  * [带分数](bao-li/dai-fen-shu.md)
