@@ -1,7 +1,10 @@
 # Table of contents
 
-* [图论](README.md)
+* [优先队列（堆）](README.md)
+  * [通关——蓝桥1024双周赛](you-xian-dui-lie-dui/tong-guan-lan-qiao-1024-shuang-zhou-sai.md)
+* [图论](<README (1).md>)
   * [无向图中的连通块](graph-theory/wu-xiang-tu-zhong-de-lian-tong-kuai.md)
+  * [最短路](graph-theory/zui-duan-lu.md)
 * [动态规划](dynamic-programming.md)
 * [双指针](shuang-zhi-zhen/README.md)
   * [相向双指针](shuang-zhi-zhen/xiang-xiang-shuang-zhi-zhen/README.md)
