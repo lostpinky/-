@@ -11,6 +11,7 @@
     * [灵神——lazy线段树模板](https://leetcode.cn/problems/handling-sum-queries-after-update/solutions/2119436/xian-duan-shu-by-endlesscheng-vx80/)
     * [2569. 更新数组后处理求和查询](graph-theory/xian-duan-shu/2569.-geng-xin-shu-zu-hou-chu-li-qiu-he-cha-xun.md)
     * [2916. 子数组不同元素数目的平方和 II](graph-theory/xian-duan-shu/2916.-zi-shu-zu-bu-tong-yuan-su-shu-mu-de-ping-fang-he-ii.md)
+    * [100112. 平衡子序列的最大和](graph-theory/xian-duan-shu/100112.-ping-heng-zi-xu-lie-de-zui-da-he.md)
   * [基环树](graph-theory/ji-huan-shu/README.md)
     * [2127. 参加会议的最多员工数](graph-theory/ji-huan-shu/2127.-can-jia-hui-yi-de-zui-duo-yuan-gong-shu.md)
   * [拓扑排序](graph-theory/tuo-pu-pai-xu.md)
