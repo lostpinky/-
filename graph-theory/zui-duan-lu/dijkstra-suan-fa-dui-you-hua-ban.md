@@ -1,6 +1,4 @@
-# 最短路
-
-1. **Dijkstra算法（堆优化版）**：
+# Dijkstra算法（堆优化版）
 
 Dijkstra算法用于查找图中从一个起始节点到所有其他节点的最短路径。该算法的工作原理如下：
 
@@ -59,6 +57,4 @@ if __name__ == '__main__':
     dist, path = dijkstra(graph, start_node, end_node)
     print(f"Shortest distance from {start_node} to {end_node}: {dist}")
     print(f"Shortest path: {' -> '.join(path)}")
-
-
 ```
