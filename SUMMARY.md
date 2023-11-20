@@ -26,6 +26,7 @@
     * [恰好装满型](dynamic-programming/01-bei-bao/qia-hao-zhuang-man-xing/README.md)
       * [494. 目标和（恰好装满型）](dynamic-programming/01-bei-bao/qia-hao-zhuang-man-xing/494.-mu-biao-he-qia-hao-zhuang-man-xing.md)
       * [100042. 和为目标值的最长子序列的长度](dynamic-programming/01-bei-bao/qia-hao-zhuang-man-xing/100042.-he-wei-mu-biao-zhi-de-zui-chang-zi-xu-lie-de-chang-du.md)
+    * [689. 三个无重叠子数组的最大和](dynamic-programming/01-bei-bao/689.-san-ge-wu-zhong-die-zi-shu-zu-de-zui-da-he.md)
   * [树形dp](dynamic-programming/shu-xing-dp/README.md)
     * [收集所有金币可获得的最大积分](dynamic-programming/shu-xing-dp/shou-ji-suo-you-jin-bi-ke-huo-de-de-zui-da-ji-fen.md)
   * [数位dp](dynamic-programming/shu-wei-dp/README.md)
