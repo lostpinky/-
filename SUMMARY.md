@@ -1,6 +1,9 @@
 # Table of contents
 
-* [优先队列（堆）](README.md)
+* [数论](README.md)
+  * [欧拉筛（线性筛）](shu-lun/ou-la-shai-xian-xing-shai/README.md)
+    * [范围内最接近的两个质数](https://leetcode.cn/problems/closest-prime-numbers-in-range/)
+* [优先队列（堆）](<README (2).md>)
   * [通关](you-xian-dui-lie-dui/tong-guan.md)
 * [线段树](xian-duan-shu/README.md)
   * [灵神——线段树视频](https://www.bilibili.com/video/BV15D4y1G7ms/?vd\_source=9bed1950e6d357f6526b84c2a178fc9e)
