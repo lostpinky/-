@@ -42,6 +42,8 @@
     * [600. 不含连续1的非负整数](dynamic-programming/shu-wei-dp/600.-bu-han-lian-xu-1-de-fei-fu-zheng-shu.md)
     * [神奇数](dynamic-programming/shu-wei-dp/shen-qi-shu.md)
   * [300. 最长递增子序列](dynamic-programming/300.-zui-chang-di-zeng-zi-xu-lie.md)
+  * [双背包问题](dynamic-programming/shuang-bei-bao-wen-ti/README.md)
+    * [火车运输](dynamic-programming/shuang-bei-bao-wen-ti/huo-che-yun-shu.md)
 * [双指针](shuang-zhi-zhen/README.md)
   * [相向双指针](shuang-zhi-zhen/xiang-xiang-shuang-zhi-zhen/README.md)
     * [两数之和-有序数组](shuang-zhi-zhen/xiang-xiang-shuang-zhi-zhen/liang-shu-zhi-he-you-xu-shu-zu.md)
