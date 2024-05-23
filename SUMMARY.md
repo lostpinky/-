@@ -3,6 +3,7 @@
 * [数论](README.md)
   * [欧拉筛（线性筛）](shu-lun/ou-la-shai-xian-xing-shai/README.md)
     * [范围内最接近的两个质数](https://leetcode.cn/problems/closest-prime-numbers-in-range/)
+    * [X质数（线性筛 + 位运算）](https://www.lanqiao.cn/problems/17128/learning/?isWithAnswer=true)
 * [优先队列（堆）](<README (2).md>)
   * [通关](you-xian-dui-lie-dui/tong-guan.md)
 * [线段树](xian-duan-shu/README.md)
